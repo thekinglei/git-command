@@ -16,6 +16,6 @@ git psh origin master
 
 
 #如果只有最后一次提交有这种问题，使用-amend 即可
-git commit -amend "comments"
+git commit --amend "comments"
 
 
